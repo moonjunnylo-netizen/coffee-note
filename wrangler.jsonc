@@ -1,0 +1,7 @@
+{
+  // Cloudflare 설정: 대시보드의 Worker 이름(coffee-note)과 같아야 해요
+  "name": "coffee-note",
+  "compatibility_date": "2026-11-01",
+  // public 폴더 안의 파일을 그대로 웹페이지로 내보내요
+  "assets": { "directory": "./public" }
+}
